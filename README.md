@@ -1,4 +1,4 @@
-# CodeClause_Face_Mask_Detection
+# Face_Mask_Detection
 Project number 2 as an Artificial Intelligence Intern at CodeClause. Detecting if the person in the image has a mask on their face or not.
 ### Dataset: https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 #### This neural network is designed for binary image classification, where it takes input images with a size of 128x128 pixels and has two output classes.
